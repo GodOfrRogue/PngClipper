@@ -1,0 +1,2 @@
+node CuttingPng.js
+pause

@@ -1,0 +1,2 @@
+node createdir.js
+pause
